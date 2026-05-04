@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rewant Rai
 
-<!--
-**rkr14/rkr14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student in Computer Science in Indian Institute of Technology Jodhpur with a strong interest in distributed systems, system design, and backend engineering. I am also deeply interested in mathematics and its applications in modern computing, particularly in AI/ML systems.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** C/C++, Python, JavaScript, TypeScript
+* **Core Areas:** Data Structures & Algorithms, Operating Systems, Computer Networks, Distributed Systems, Machine Learning (foundations)
+* **Tools & Technologies:** Git, PostgreSQL, Redis, Docker
+
+## Interests
+
+* Distributed Systems
+* Backend Development
+* System Design
+* AI/ML Systems
